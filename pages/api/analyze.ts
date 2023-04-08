@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import openai from "@/components/openai-config";
+import openai from "../../components/openai-config";
 
 const analyzer = async (req: NextApiRequest, res: NextApiResponse) => {
   const explanationLevel = {
