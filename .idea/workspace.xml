@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1724f9ab-9c5d-45de-9bf4-48ba30451562" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/api/analyze.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/analyze.ts" afterDir="false" />
-    </list>
+    <list default="true" id="1724f9ab-9c5d-45de-9bf4-48ba30451562" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "vadim-dev",
     "javascript.nodejs.core.library.configured.version": "17.3.0",
     "javascript.nodejs.core.library.typings.version": "17.0.45",
     "node.js.detected.package.eslint": "true",
@@ -45,7 +43,7 @@
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "pnpm",
     "settings.editor.selected.configurable": "settings.nodejs",
-    "ts.external.directory.path": "/Users/deybyr647/Projects/nyit-hackathon-project/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/deybyr647/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/231.8109.174/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -79,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680964457758</updated>
-      <workItem from="1680964462269" duration="3163000" />
+      <workItem from="1680964462269" duration="3552000" />
     </task>
     <servers />
   </component>
