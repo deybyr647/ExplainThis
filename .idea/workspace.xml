@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1724f9ab-9c5d-45de-9bf4-48ba30451562" name="Changes" comment="" />
+=======
+    <list default="true" id="1724f9ab-9c5d-45de-9bf4-48ba30451562" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pages/api/analyze.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/analyze.ts" afterDir="false" />
+    </list>
+>>>>>>> f940c82327e7bfd771863ff3bd40046204c89fa2
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "tahir-dev",
+    "git-widget-placeholder": "deyby-dev",
     "javascript.nodejs.core.library.configured.version": "17.3.0",
     "javascript.nodejs.core.library.typings.version": "17.0.45",
     "node.js.detected.package.eslint": "true",
