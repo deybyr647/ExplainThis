@@ -30,12 +30,16 @@ export default function Home() {
           <Link href={"/start"} className={"btn btn-info"}>
             Get Started
           </Link>
-
-          <Link href={"/about"} className={"btn btn-secondary"}>
-            About Us
-          </Link>
         </div>
       </div>
+
+      <footer className={"container mt-5"}>
+        <div className={"text-center"}>
+          <p>
+            <i>ExplainThis</i> is a project by Deyby, Vadim & Tahir
+          </p>
+        </div>
+      </footer>
     </div>
   );
 }

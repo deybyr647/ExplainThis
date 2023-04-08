@@ -32,7 +32,13 @@ const analyzer = async (req: NextApiRequest, res: NextApiResponse) => {
   const response = await openai.createCompletion(options);
   const { data } = response;
 
-  res.status(200).json({ ...data, ...req.query });
+  const out = {
+    input: code,
+    explanation: data.choices[0].text,
+    level: explanation,
+  };
+
+  res.status(200).json({ ...out });
 };
 
 export default analyzer;
