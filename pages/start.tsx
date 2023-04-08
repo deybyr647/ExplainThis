@@ -30,7 +30,7 @@ export default function Start() {
 
     (async () => {
       const res = await fetch(
-        `http://localhost:3000/api/analyze?code=${code}&explanation=${explanationParam}`
+        `/api/analyze?code=${code}&explanation=${explanationParam}`
       );
 
       const data = await res.json();
