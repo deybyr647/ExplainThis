@@ -52,9 +52,7 @@ export default function Start() {
         <div className="col">
           <form>
             <div className="mb-3">
-              <h3 htmlFor="exampleFormControlTextarea1" className="form-label">
-                Paste your code here!
-              </h3>
+              <h3 className="form-label">Paste your code here!</h3>
 
               <textarea
                 className="form-control"
