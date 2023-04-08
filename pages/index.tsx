@@ -7,7 +7,6 @@ import styles from '@/styles/Home.module.css'
 const inter = Inter({ subsets: ['latin'] })
 
 import logo from "../public/logo.png";
-import Navigation from '@/components/navbar';
 
 export default function Home() {
   return (
